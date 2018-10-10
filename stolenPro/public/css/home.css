@@ -1,0 +1,33 @@
+.image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.content{
+    margin-top:30px;
+}
+
+.checkBox {
+    box-shadow: 3px 3px #888888;
+
+    word-wrap: break-word;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.missing{
+    box-shadow: 3px 3px #888888;
+
+    word-wrap: break-word;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.missing-content{
+    margin-top:50px;
+}
+

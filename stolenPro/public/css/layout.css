@@ -1,0 +1,104 @@
+html {
+
+}
+
+
+
+.logo {
+    padding-left: 53px;
+}
+
+.home {
+    padding-top: 15px;
+}
+
+.check{
+    padding-top: 15px;
+}
+
+.report{
+    padding-top: 15px;
+}
+
+.about{
+    padding-top: 15px;
+}
+
+.my_devices {
+    padding-top: 15px;
+    width: 93px;
+}
+.my_reports {
+    padding-top: 15px;
+    width: 93px;
+}
+
+.search{
+    padding-top: 15px;
+}
+
+.homeBtn{
+    background: transparent;
+    border: none;
+}
+
+.checkBtn{
+    background: transparent;
+    border: none;
+}
+
+.searchBtn{
+    background: transparent;
+    border: none;
+}
+
+.reportBtn{
+    background: transparent;
+    border: none;
+}
+
+.aboutBtn{
+    background: transparent;
+    border: none;
+}
+
+.myDevicesBtn{
+    background: transparent;
+    border: none;
+
+}
+
+.myReportBtn{
+    background: transparent;
+    border: none;
+
+}
+
+.homeBtn:hover{
+    background: #d9edf7;
+}
+.checkBtn:hover{
+    background: #d9edf7;
+}
+.searchBtn:hover{
+    background: #d9edf7;
+}
+.reportBtn:hover{
+    background: #d9edf7;
+}
+.aboutBtn:hover{
+    background: #d9edf7;
+}
+.myReportBtn:hover{
+    background: #d9edf7;
+}
+.myDevicesBtn:hover{
+    background: #d9edf7;
+}
+
+
+.footer{
+    margin-top:50px;
+    border-top: 1px solid black;
+}
+
